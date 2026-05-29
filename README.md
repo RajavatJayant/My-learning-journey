@@ -8,6 +8,9 @@ This repository contains Machine Learning models, experiments, and practice proj
 - House Price Prediction
 - Diabetes Prediction using SVM
 - Big Mart Sales Prediction
+- Breast Cancer Classification
+- Calories Burnt Predicyion
+- Movies Recomendation System
 
 ## Technologies Used
 - Python
