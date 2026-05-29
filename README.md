@@ -7,6 +7,7 @@ This repository contains Machine Learning models, experiments, and practice proj
 - Heart Disease Prediction
 - House Price Prediction
 - Diabetes Prediction using SVM
+- Big Mart Sales Prediction
 
 ## Technologies Used
 - Python
